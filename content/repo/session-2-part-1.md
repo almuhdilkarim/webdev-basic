@@ -39,7 +39,7 @@ require:
       desc: "Digunakan untuk menulis dan mengelola kode pemrograman web."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: ["web-basic", "pemrograman"]
     author: ["null"]
 description: "Memahami dasar pemrograman web untuk membangun solusi digital masa kini."

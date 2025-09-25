@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Sultan Fajar Ramadhan"]
 description: "Memahami tag form untuk mengelola input dan interaksi pengguna."

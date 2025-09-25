@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Muhammad Haydar Ilham Kamil"]
 description: "Mempelajari tag link untuk menghubungkan halaman dan sumber daya."

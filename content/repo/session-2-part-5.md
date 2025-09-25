@@ -4,7 +4,7 @@ draft: false
 title: "Website sebagai Medium Perubahan Sosial, Ekonomi, Politik, dan Budaya"
 short: "peranan"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: "article"
@@ -39,7 +39,7 @@ require:
       desc: "Membantu dalam menulis, mengedit, dan mengelola artikel digital"
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: ["website", "sosial", "ekonomi", "politik", "budaya"]
     author: ["null"]
 description: "Website sebagai medium transformasi sosial, ekonomi, politik, serta budaya global."

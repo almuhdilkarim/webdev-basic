@@ -4,7 +4,7 @@ draft: false
 title: "Kendalikan ketebalan teks halaman web pada HTML dengan font weight CSS"
 short: "font weight"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Achmad Baihaqi"]
 description: "Mempelajari properti font-weight css untuk mengatur ketebalan teks halaman."

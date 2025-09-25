@@ -4,7 +4,7 @@ draft: false
 title: "Mulai atur tampilan visual halaman web pada HTML dengan CSS"
 short: "pengantar"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Diperlukan teks editor untuk menulis kode HTML dan CSS, misalnya Visual Studio Code atau editor sejenis."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
 description: "Memahami pengantar css untuk mengatur tampilan visual halaman website."

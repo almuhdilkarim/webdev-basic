@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Memahami atribut HTML sebagai penentu perilaku dan karakteristik elemen."

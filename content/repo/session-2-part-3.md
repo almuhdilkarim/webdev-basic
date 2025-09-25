@@ -31,7 +31,7 @@ require:
       desc: "Digunakan untuk membuat file HTML dan CSS dasar."
 metadata:
     index: true
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: ["Web Development", "Intro"]
     author: ["null"]
 description: "Memahami fondasi website sebagai pintu utama menuju dunia digital."

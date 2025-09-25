@@ -4,7 +4,7 @@ draft: false
 title: "Terapkan gaya visual halaman web secara konsisten pada HTML dengan penggunaan CSS"
 short: "pengunaan"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Diperlukan untuk menulis, mengedit, dan mengelola kode CSS dengan mudah dan efisien."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
 description: "Mempelajari penggunaan css untuk mempercantik dan menata tampilan halaman."

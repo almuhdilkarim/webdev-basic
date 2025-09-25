@@ -4,7 +4,7 @@ draft: false
 title: "Atur perhitungan dimensi elemen halaman web secara tepat pada HTML dengan box-sizing CSS"
 short: "konseptual"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Sultan Fajar Ramadhan"]
 description: "Memahami konsep box-sizing css untuk mengatur perhitungan dimensi elemen."

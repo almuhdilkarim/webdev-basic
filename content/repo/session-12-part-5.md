@@ -4,7 +4,7 @@ draft: false
 title: "Tambah efek dinamis pada elemen halaman web pada HTML dengan pseudo CSS"
 short: "pseudo"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Diperlukan untuk menulis, menguji, dan memvisualisasikan kode CSS dan HTML."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Memahami pseudo-class dan pseudo-element css untuk gaya dinamis serta fleksibel."

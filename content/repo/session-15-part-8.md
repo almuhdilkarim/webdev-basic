@@ -4,7 +4,7 @@ draft: false
 title: "Tentukan perilaku tampilan elemen halaman web pada HTML dengan display CSS"
 short: "display roles"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Sultan Fajar Ramadhan"]
 description: "Mempelajari properti display css untuk menentukan peran dan perilaku elemen."

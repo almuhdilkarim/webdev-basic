@@ -4,7 +4,7 @@ draft: false
 title: "Atur jarak dalam konten elemen halaman web pada HTML dengan padding CSS"
 short: "padding"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Sultan Fajar Ramadhan"]
 description: "Mempelajari properti padding css untuk mengatur jarak dalam elemen."

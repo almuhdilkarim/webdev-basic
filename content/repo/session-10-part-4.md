@@ -4,7 +4,7 @@ draft: false
 title: "Definisikan struktur dan gaya halaman web pada HTML dengan markup CSS"
 short: "markup"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Diperlukan untuk menulis, mengedit, dan mengelola kode HTML dengan mudah dan efisien."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Muhammad Haydar ilham Kamil"]
 description: "Memahami markup css untuk mendefinisikan gaya visual elemen halaman."

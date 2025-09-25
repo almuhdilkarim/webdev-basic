@@ -4,7 +4,7 @@ draft: false
 title: "Atur gaya khusus elemen turunan langsung pada HTML dengan child selector CSS"
 short: "child"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Digunakan untuk menulis kode HTML dan CSS dengan mudah."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Menguasai selector child css untuk presisi menata hierarki struktur DOM."

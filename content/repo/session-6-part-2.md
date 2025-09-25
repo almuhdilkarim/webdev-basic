@@ -39,14 +39,14 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
 description: "Memahami tag iframe untuk menampilkan konten eksternal dalam halaman."
 ---
 
 
-Tag `<iframe>` dalam HTML adalah salah satu elemen yang digunakan untuk menampilkan sebuah halaman web di dalam halaman web lain, sehingga memberikan fleksibilitas bagi pengembang untuk mengintegrasikan konten eksternal secara langsung (Freeman, Robson, & Bates, 2021). Konsep ini memudahkan pengguna dalam mengakses informasi tanpa harus berpindah halaman, yang pada akhirnya dapat meningkatkan pengalaman pengguna secara keseluruhan (W3C, 2022). Elemen ini sering digunakan untuk menanamkan video, peta, atau bahkan aplikasi pihak ketiga yang berjalan secara mandiri di dalam halaman utama. Dengan cara ini, `<iframe>` menjadi salah satu fitur yang mempermudah komunikasi antar aplikasi web. Namun, penggunaan yang tidak hati-hati juga bisa menimbulkan tantangan, terutama terkait keamanan dan performa (Mozila Developer Network \[MDN], 2022). Oleh karena itu, memahami potensi dan keterbatasannya menjadi hal yang penting bagi setiap praktisi web.
+Tag `<iframe>` dalam HTML adalah salah satu elemen yang digunakan untuk menampilkan sebuah halaman web di dalam halaman web lain, sehingga memberikan fleksibilitas bagi pengembang untuk mengintegrasikan konten eksternal secara langsung (Freeman, Robson, & Bates, 2021). Konsep ini memudahkan pengguna dalam mengakses informasi tanpa harus berpindah halaman, yang pada akhirnya dapat meningkatkan pengalaman pengguna secara keseluruhan (W3C, 2022). Elemen ini sering digunakan untuk menanamkan video, peta, atau bahkan aplikasi pihak ketiga yang berjalan secara mandiri di dalam halaman utama. Dengan cara ini, `<iframe>` menjadi salah satu fitur yang mempermudah komunikasi antar aplikasi web. Namun, penggunaan yang tidak hati-hati juga bisa menimbulkan tantangan, terutama terkait keamanan dan performa (Mozila Developer Network [MDN], 2022). Oleh karena itu, memahami potensi dan keterbatasannya menjadi hal yang penting bagi setiap praktisi web.
 
 Seiring dengan berkembangnya kebutuhan integrasi konten digital, `<iframe>` menjadi solusi praktis untuk menampilkan layanan pihak ketiga tanpa memerlukan pengembangan ulang (Gustafson, 2020). Contoh yang paling umum adalah menyematkan video YouTube langsung ke artikel atau blog agar pembaca bisa menonton tanpa meninggalkan halaman. Hal ini tidak hanya membuat pengalaman pengguna lebih efisien, tetapi juga membantu menjaga konsistensi visual pada situs web. Selain itu, `<iframe>` memungkinkan pengembang menghemat waktu dan sumber daya karena tidak perlu membangun layanan dari nol. Dengan pendekatan ini, website bisa menjadi lebih interaktif tanpa mengurangi fokus pada konten utama (MDN, 2022). Penggunaan `<iframe>` juga terus dipertahankan dalam standar HTML karena masih relevan hingga saat ini (W3C, 2022).
 
@@ -358,10 +358,10 @@ Freeman, A., Robson, E., & Bates, B. (2021). *Head First HTML and CSS: A learner
 
 Gustafson, J. (2020). *Modern web development best practices*. Packt Publishing.
 
-MDN Web Docs. (2022). *<iframe>: The Inline Frame element*. Retrieved from [https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
+MDN Web Docs. (2022). *iframe: The Inline Frame element.* Retrieved from(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
 
 Powell, T. A. (2019). *HTML & CSS: The complete reference* (5th ed.). McGraw-Hill Education.
 
-World Wide Web Consortium (W3C). (2022). *HTML Living Standard*. Retrieved from [https://www.w3.org/TR/html/](https://www.w3.org/TR/html/)
+World Wide Web Consortium (W3C). (2022). *HTML Living Standard*. Retrieved from(https://www.w3.org/TR/html/)
 
 ---

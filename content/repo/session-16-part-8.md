@@ -4,7 +4,7 @@ draft: false
 title: "Atur setelah float pada HTML dengan clear CSS"
 short: "clear"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Digunakan untuk menulis dan menguji kode CSS secara langsung."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Mempelajari properti clear css untuk mengatur perilaku elemen setelah float."

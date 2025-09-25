@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Menggunakan list untuk menyajikan informasi terstruktur, rapi, dan mudah dipahami."

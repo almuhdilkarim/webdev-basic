@@ -39,7 +39,7 @@ require:
       desc: "Digunakan untuk menulis dan mengedit tag HTML dan metadata OpenGraph secara langsung." 
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Mempelajari Open Graph untuk optimalkan pratinjau konten halaman pada media sosial."

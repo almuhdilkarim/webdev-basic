@@ -39,7 +39,7 @@ require:
       desc: "Digunakan untuk menulis dan mengedit kode HTML pada modul ini."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Mempelajari quotation dalam penyajian kutipan profesional dalam halaman web."

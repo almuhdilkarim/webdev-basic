@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Achmad Baihaqi"]
 description: "Mendalami tag img untuk menampilkan ilustrasi dalam media gambar."

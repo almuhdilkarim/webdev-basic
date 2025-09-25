@@ -4,7 +4,7 @@ draft: false
 title: "rounded"
 short: "Buat sudut elemen halaman web lebih membulat pada HTML dengan border-radius CSS"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Sultan Fajar Ramadhan"]
 description: "Memahami properti border-radius css untuk membuat sudut elemen lebih membulat."

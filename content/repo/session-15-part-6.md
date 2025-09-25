@@ -4,7 +4,7 @@ draft: false
 title: "Tambahkan efek bayangan estetis pada elemen halaman web pada HTML dengan box-shadow CSS"
 short: "shadow"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Sultan Fajar Ramadhan"]
 description: "Mempelajari properti box-shadow css untuk menambahkan efek bayangan pada elemen."

@@ -4,7 +4,7 @@ draft: false
 title: "Tempatkan elemen relatif terhadap kontainer terdekat pada HTML dengan position absolute CSS"
 short: "absolute"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Digunakan untuk menulis dan menguji kode CSS serta HTML."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Mempelajari position absolute css untuk menempatkan elemen relatif terhadap kontainer."

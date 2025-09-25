@@ -4,7 +4,7 @@ draft: false
 title: "Kustomisasi tampilan elemen halaman web pada HTML dengan background CSS"
 short: "latar belakang"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
     desc: "Diperlukan untuk menulis, mengedit, dan melihat hasil kode CSS secara langsung."
 metadata:
   index: false
-  thumb: "cover.jpg"
+  thumb: "cover.png"
   group: []
   author: ["Muhammad Haydar Ilham kamil"]
 description: "Mempelajari properti background css untuk mengatur latar belakang elemen halaman."

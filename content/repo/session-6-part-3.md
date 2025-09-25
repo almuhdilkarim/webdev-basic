@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
 description: "Mempelajari tag embed untuk menyisipkan konten multimedia interaktif."

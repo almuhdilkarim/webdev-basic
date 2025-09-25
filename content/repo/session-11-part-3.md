@@ -4,7 +4,7 @@ draft: false
 title: "Targetkan elemen spesifik halaman web pada HTML dengan identifier CSS"
 short: "identifier"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Sultan Fajar Ramadhan"]
 description: "Memahami identifier css untuk menargetkan elemen spesifik dalam halaman web."

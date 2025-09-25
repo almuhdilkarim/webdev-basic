@@ -4,7 +4,7 @@ draft: false
 title: "Kendalikan jarak luar antar elemen halaman web pada HTML dengan margin CSS"
 short: "margin"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Sultan Fajar Ramadhans"]
 description: "Memahami properti margin css untuk mengatur jarak luar antar elemen."

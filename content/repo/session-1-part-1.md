@@ -31,7 +31,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Module ini membahas mekanisme pembelajaran yang digunakan dalam setiap pertemuan"

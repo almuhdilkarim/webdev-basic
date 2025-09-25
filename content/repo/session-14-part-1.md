@@ -4,7 +4,7 @@ draft: false
 title: "Tentukan palet dan nuansa desain halaman web pada HTML dengan warna CSS"
 short: "konseptual"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Diperlukan untuk menulis, mengedit, dan mengelola kode CSS dengan mudah dan efisien."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Muhammad Haydar Ilham kamil"]
 description: "Mempelajari aspek konseptual css untuk memahami prinsip desain dan styling."

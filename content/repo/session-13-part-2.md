@@ -4,7 +4,7 @@ draft: false
 title: "Atur ukuran teks halaman web secara proporsional pada HTML dengan font size CSS"
 short: "font size"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Achmad Baihaqi"]
 description: "Memahami properti font-size css untuk mengatur ukuran teks halaman web."

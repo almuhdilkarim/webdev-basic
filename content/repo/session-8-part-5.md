@@ -39,7 +39,7 @@ require:
       desc: "Diperlukan untuk menulis dan mengedit file XML EAD dengan struktur yang valid."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Metadata EAD untuk representasi arsip digital secara terstruktur dan standar"

@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Achmad Baihaqi"]
 description: "Memahami semantik HTML untuk struktur konten yang lebih bermakna."

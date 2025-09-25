@@ -4,7 +4,7 @@ draft: false
 title: "Atur tampilan gaya khusus teks halaman web pada HTML dengan font variant CSS"
 short: "font variant"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Achmad Baihaqi"]
 description: "Mempelajari properti font-variant css untuk mengatur tampilan gaya teks." 

@@ -4,7 +4,7 @@ draft: false
 title: "Targetkan elemen tepat setelah sibling sejenis pada HTML dengan adjacent sibling CSS"
 short: "adjacent sibling"
 thumb:
-  image: "cover.jpg"
+  image: "cover.png"
   anima: ""
   video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
     desc: "Digunakan untuk menulis dan mengedit kode CSS dan HTML."
 metadata:
   index: false
-  thumb: "cover.jpg"
+  thumb: "cover.png"
   group: []
   author: ["null"]
 description: "Mempelajari selector adjacent sibling css untuk menargetkan elemen dalam sebuah group."

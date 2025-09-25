@@ -4,7 +4,7 @@ draft: false
 title: "Atur posisi konten pada HTML dengan float CSS"
 short: "floating"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Digunakan untuk menulis dan menguji kode CSS."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Memahami properti float css untuk mengatur posisi elemen secara melayang."

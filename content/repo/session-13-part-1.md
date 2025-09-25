@@ -4,7 +4,7 @@ draft: false
 title: "Tentukan jenis huruf teks halaman web pada HTML dengan font family CSS"
 short: "font family"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Achmad Baihaqi"]
 description: "Mempelajari properti font-family css untuk menentukan jenis huruf pada teks."

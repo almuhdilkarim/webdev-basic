@@ -4,7 +4,7 @@ draft: false
 title: "Atur penempatan elemen halaman web secara fleksibel pada HTML dengan position CSS"
 short: "konseptual"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Dibutuhkan untuk menuliskan dan menguji kode CSS secara langsung."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Memahami properti position css untuk mengatur penempatan elemen dalam layout."

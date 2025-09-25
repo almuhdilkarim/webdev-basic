@@ -4,7 +4,7 @@ draft: false
 title: "Ubah gaya kemiringan teks halaman web pada HTML dengan font style CSS"
 short: "font style"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Achmad Baihaqi"]
 description: "Memahami properti font-style css untuk mengatur gaya kemiringan teks."

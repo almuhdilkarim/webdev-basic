@@ -3,7 +3,7 @@ date:  "2025-09-22T12:00:00+07:00"
 title: "Beri gaya khusus pada elemen halaman web pada HTML dengan class CSS"
 short: "class"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -38,7 +38,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Sultan Fajar Ramadhan"]
 description: "Mempelajari class css untuk memberikan gaya khusus pada elemen tertentu."

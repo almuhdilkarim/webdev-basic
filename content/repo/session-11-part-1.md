@@ -4,7 +4,7 @@ draft: false
 title: "Pahami dasar pemikiran desain halaman web modern pada HTML dengan konsep CSS"
 short: "konseptual"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Sultan Fajar Ramadhan"]
 description: "Memahami prinsip dasar css untuk mengatur desain visual halaman web."

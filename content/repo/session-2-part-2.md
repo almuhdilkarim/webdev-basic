@@ -31,7 +31,7 @@ require:
       desc: "Digunakan untuk menulis dan mengelola file HTML, CSS, serta dokumentasi materi."
 metadata:
     index: true
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: ["Networking", "Web"]
     author: ["null"]
 description: "Menjelajahi mekanisme internet, memahami cara kerja jaringan global modern."

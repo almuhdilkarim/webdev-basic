@@ -4,7 +4,7 @@ draft: false
 title: "Geser elemen dari posisi normalnya pada HTML dengan position relative CSS"
 short: "relative"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Digunakan untuk menulis dan menguji kode CSS yang berhubungan dengan position relative."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Memahami position relative css untuk mengatur pergeseran elemen dari posisi normal."

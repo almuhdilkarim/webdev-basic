@@ -4,7 +4,7 @@ draft: false
 title: "Pahami aturan penulisan gaya halaman web pada HTML dengan sintaks CSS"
 short: "Sintaks"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Diperlukan untuk menulis, mengedit, dan mengelola kode CSS secara efektif."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Muhammad Haydar Ilham Kamil"]
 description: "Mempelajari sintaks css untuk mengatur gaya dan tampilan elemen."

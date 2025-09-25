@@ -4,7 +4,7 @@ draft: false
 title: "Terapkan gaya pada elemen turunan dalam hierarki HTML dengan descendant selector CSS"
 short: "descendant"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Diperlukan untuk menulis dan menguji kode CSS serta HTML."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Mempelajari selector descendant css untuk menargetkan elemen turunan dalam hierarki."

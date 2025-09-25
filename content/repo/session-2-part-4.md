@@ -40,7 +40,7 @@ require:
 
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Menjelaskan peran webserver sebagai fondasi utama akses digital modern"

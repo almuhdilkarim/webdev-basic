@@ -4,7 +4,7 @@ draft: false
 title: "Tetapkan posisi default elemen halaman web pada HTML dengan position static CSS"
 short: "normal"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -43,7 +43,7 @@ require:
       desc: "Diperlukan untuk menampilkan hasil implementasi CSS pada halaman web."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Mempelajari position static css sebagai posisi normal default elemen pada halaman."

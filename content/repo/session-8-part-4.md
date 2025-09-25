@@ -39,7 +39,7 @@ require:
       desc: "Digunakan untuk menulis dan memvalidasi file XML MODS secara akurat."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Kenli MODS untuk deskripsi metadata terstandar dalam pengelolaan dokumen."

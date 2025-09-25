@@ -4,7 +4,7 @@ draft: false
 title: "Seleksi elemen berdasarkan atribut tertentu pada HTML dengan attribute CSS"
 short: "attribute"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Sultan Fajar Ramadhan"]
 description: "Mempelajari selector attribute css untuk menargetkan elemen dengan atribut khusus."

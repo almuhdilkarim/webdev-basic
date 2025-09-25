@@ -4,7 +4,7 @@ draft: false
 title: "Atur warna teks halaman web secara fleksibel pada HTML dengan text color CSS"
 short: "teks"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Diperlukan untuk menulis dan mengelola kode CSS secara efisien."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Memahami properti teks css untuk mengatur tampilan dan estetika tulisan."

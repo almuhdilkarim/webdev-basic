@@ -4,7 +4,7 @@ draft: false
 title: "Tetapkan elemen selalu terlihat saat menggulir halaman web pada HTML dengan position fixed CSS"
 short: "fixed"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: "article"
@@ -39,7 +39,7 @@ require:
       desc: "Dibutuhkan untuk menulis, menguji, dan mengatur kode CSS dalam proyek web."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Mempelajari position fixed css untuk elemen tetap terlihat saat menggulir."

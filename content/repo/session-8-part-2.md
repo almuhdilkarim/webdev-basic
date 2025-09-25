@@ -39,7 +39,7 @@ require:
     desc: "Digunakan untuk menulis, mengedit, dan memvalidasi kode HTML serta menempatkan metadata dengan benar."
 metadata:
   index: false
-  thumb: "cover.jpg"
+  thumb: "cover.png"
   group: []
   author: ["null"]
 description: "Memahami metadata native untuk mendeskripsikan informasi bawaan halaman web."

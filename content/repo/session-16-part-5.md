@@ -4,7 +4,7 @@ draft: false
 title: "Buat elemen menempel saat digulir halaman web pada HTML dengan position sticky CSS"
 short: "sticky"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: "article"
@@ -39,7 +39,7 @@ require:
       desc: "Dibutuhkan untuk menulis dan menguji kode CSS dalam proyek web."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Memahami position sticky css untuk elemen yang menempel saat digulir halaman."

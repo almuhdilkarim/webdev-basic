@@ -4,7 +4,7 @@ draft: false
 title: "Jaga konsistensi desain visual halaman web pada HTML dengan color guideline CSS"
 short: "penataan"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Digunakan untuk menulis dan menguji kode HTML dan CSS"
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Memahami color guideline css untuk konsistensi dan harmoni tampilan desain web."

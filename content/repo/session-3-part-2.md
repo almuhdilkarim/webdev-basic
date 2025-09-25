@@ -22,7 +22,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["null"]
 description: "Memahami posisi HTML sebagai bahasa dasar pembangunan struktur halaman web."

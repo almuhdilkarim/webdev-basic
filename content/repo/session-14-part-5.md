@@ -4,7 +4,7 @@ draft: false
 title: "Kendalikan tampil atau tersembunyinya elemen halaman web pada HTML dengan visibility CSS"
 short: "visibilitas"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Digunakan untuk menulis dan mengedit HTML dan CSS agar visibilitas elemen dapat diuji dan dioptimalkan."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["MUhammad Haydar Ilham kamil"]
 description: "Mempelajari properti visibility css untuk mengatur tampil atau tersembunyi elemen."

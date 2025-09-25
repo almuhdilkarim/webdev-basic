@@ -4,7 +4,7 @@ draft: false
 title: "Telusuri perkembangan desain web modern pada HTML dengan sejarah CSS"
 short: "sejarah"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: "Diperlukan teks editor untuk membaca dan menulis kode CSS, misalnya Visual Studio Code atau editor sejenis."
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Muhammad Haydar Ilham Kamil"]
 description: "Menelusuri sejarah perkembangan css dari awal hingga modern."

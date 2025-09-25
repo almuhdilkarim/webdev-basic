@@ -4,7 +4,7 @@ draft: false
 title: "Tentukan ukuran lebar dan tinggi elemen halaman web pada HTML dengan box dimensions CSS"
 short: "box dimensions"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Sultan Fajar Ramadhan"]
 description: "Mempelajari properti box dimensions css untuk mengatur ukuran elemen halaman."

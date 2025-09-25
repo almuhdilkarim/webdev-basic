@@ -4,7 +4,7 @@ draft: false
 title: "Sederhanakan penulisan beberapa properti gaya halaman web pada HTML dengan shorthand CSS"
 short: "shorthand"
 thumb:
-    image: "cover.jpg"
+    image: "cover.png"
     anima: ""
     video: ""
 layout: ""
@@ -39,7 +39,7 @@ require:
       desc: ""
 metadata:
     index: false
-    thumb: "cover.jpg"
+    thumb: "cover.png"
     group: []
     author: ["Achmad Baihaqi"]
 description: "Memahami shorthand css untuk menyingkat penulisan beberapa properti gaya sekaligus."
